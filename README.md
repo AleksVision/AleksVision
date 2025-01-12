@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я Александр! 👋
 
-<!--
-**AleksVision/AleksVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### О себе:
+- 🧑‍💻 Занимаюсь разработкой программного обеспечения и изучением программирования.
+- 📚 Увлекаюсь созданием проектов с использованием C#, Python, и Java.
+- 🌱 В настоящее время разрабатываю ИИ-коуч для финансов.
 
-Here are some ideas to get you started:
+### Мои навыки:
+- Языки программирования: C#, Python, Java.
+- Фреймворки: .NET, Flask.
+- Другие технологии: Git, SQL, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Чем могу быть полезен:
+- Помогу разобраться с программированием.
+- Разрабатываю проекты, направленные на решение реальных проблем.
+
+### Связь со мной:
+- Email: VisionAleks@yandex.ru
+- LinkedIn: [Добавьте ссылку]
+
+![GitHub followers](https://img.shields.io/github/followers/AleksVision?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AleksVision?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=AleksVisionr&color=blue)
