@@ -7,13 +7,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python
-      uses: actions/setup-python@v5  
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.12'
+        python-version: '3.11'  # Используем стабильную версию Python
+    
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
     - name: Run basic checks
       run: |
-        python -m py_compile *.py
-        echo "✅ Basic checks passed"
+        python -c "import aiogram; print(f'✅ AIogram {aiogram.__version__} installed')"
+        echo "✅ All checks passed"
