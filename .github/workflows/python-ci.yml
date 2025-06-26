@@ -20,4 +20,6 @@ jobs:
     - name: Run basic checks
       run: |
         python -c "import aiogram; print(f'✅ AIogram {aiogram.__version__} installed')"
+        python test_import.py
         echo "✅ All checks passed"
+      
